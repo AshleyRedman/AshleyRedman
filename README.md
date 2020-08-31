@@ -1,9 +1,10 @@
 ## Hi, I'm Ash 👋 🥦🥦🥦
 
+<img src="https://ashredman.com/meta/og-image.jpg" alt="Dale Studios Ltd" />
+
 ### I'm a Developer from Leicestershire, UK.
 #### Currently at [DaleStudios]
 
-<img src="https://dalestudios.co.uk/wp-content/uploads/2020/07/og.png" alt="Dale Studios Ltd" />
 
 - 🌱 I’m currently learning React, Guttenberg & Advanced WordPress Development
 - 😄 Pronouns: he/him
