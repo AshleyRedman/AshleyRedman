@@ -1,7 +1,7 @@
 ## Hi, I'm Ash 👋 🥑
 
 ### I'm a Developer from Leicestershire, UK.
-#### Currently at [Dale Studios]
+#### Currently at [DaleStudios]
 
 - 🌱 I’m currently learning React, Guttenberg & Advanced WordPress Development
 - 😄 Pronouns: he/him
