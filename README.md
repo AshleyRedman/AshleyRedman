@@ -4,7 +4,7 @@
 #### Currently at [DaleStudios]
 
 
-- 🌱 I’m currently learning React, Gutenberg & Advanced WordPress Development
+- 🌱 I’m currently learning React, Gutenberg & pushing WordPress past its limits! 👀
 - 😄 Pronouns: he/him
 
 ---
