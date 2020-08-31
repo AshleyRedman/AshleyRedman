@@ -1,6 +1,6 @@
 ## Hi, I'm Ash 👋 🥦🥦🥦
 
-<img src="https://ashredman.com/meta/og-image.jpg" alt="Dale Studios Ltd" />
+<img src="https://ashredman.com/meta/arog.jpg" alt="Dale Studios Ltd" />
 
 ### I'm a Developer from Leicestershire, UK.
 #### Currently at [DaleStudios]
