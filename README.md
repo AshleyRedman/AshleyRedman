@@ -9,11 +9,11 @@
 
 ---
 
-🏡  [website][website] **|** 
-🐦  [twitter][twitter] **|** 
-🎥  [twitch][twitch] **|** 
-📷  [instagram][instagram] **|** 
-👔  [linkedin][linkedin]
+[website][website] **|** 
+[twitter][twitter] **|** 
+[twitch][twitch] **|** 
+[instagram][instagram] **|** 
+[linkedin][linkedin]
 
 [website]: https://ashredman.com
 [twitter]: https://twitter.com/AJ_Redman
