@@ -1,11 +1,4 @@
-## Hi, I'm Ash 👋 🥦🥦🥦
-
-### I'm a Developer from Leicestershire, UK.
-
-
-- 😄 Pronouns: he/him
-
----
+## Hi, I'm Ash 👋
 
 [website][website] **|** 
 [twitter][twitter] **|** 
