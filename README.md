@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Advanced TypeScript paradigms**
 
-- 📫 How to reach me **ash.redman@outlook.com**
+- 📫 How to reach me **ashley.redman@ajrsoftware.com**
 
 <br/>
 
